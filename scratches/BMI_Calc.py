@@ -1,4 +1,5 @@
 #BMI calculator
+#can you use input to make this better?
 name1 = "matt s"
 height_m1 = 5
 weight_kgl = 90
