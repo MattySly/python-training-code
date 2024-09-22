@@ -9,7 +9,6 @@ import pandas as pd
 account_name = 'sagefruitstorage'
 account_key = 'g7rqwrNjeOlr/kHEAEUrbN2NlI806gFpYL5zqVYT8oPAmvk81JNYJiiUe6CKaRi5bx+pucVVs1Cg7oixfbdMqg=='
 directory_name = 'Historical_Sales'
-#testing 123
 
 
 #create a client to interact with blob storage
